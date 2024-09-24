@@ -8,6 +8,7 @@ function App() {
       <Task title="Dishes" deadline="Today" description="Empty dishwasher"/>
       <Task title="Laundry" deadline="Tomorrow" description="Fold laundry and put away." />
       <Task title="Tidy" deadline="Today" />
+      <Task title="Pay your taxes" deadline="Today" description="its over tasky will get you" />
     </div>
   );
 }
