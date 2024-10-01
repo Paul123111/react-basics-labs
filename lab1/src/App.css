@@ -83,6 +83,7 @@ input[type=submit] {
   cursor: pointer;
 }
 
-detailText[type=text] {
-  margin: 20px;
+.priority {
+  border-radius: 10px;
+  padding: 5px;
 }
